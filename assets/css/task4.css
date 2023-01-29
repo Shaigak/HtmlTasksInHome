@@ -1,0 +1,369 @@
+body{
+    background-color:#252B42 ;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;  
+}
+
+.Brand h2{
+    color: white;
+    width: 20px;
+    height: 1px;
+    margin-left: 190px;
+    margin-top: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.Brand .menu ul{
+    display: flex;
+    list-style: none;
+    align-items: center;
+    justify-content: center;
+    margin-top: 12px;
+    height: 5px;   
+}
+
+.Brand .menu ul li{
+    margin-left: 30px;   
+    font-size: 15px;
+    text-decoration: none;
+}
+
+.Brand .menu ul li a{
+    text-decoration: none;
+    color: white
+    
+}
+
+.Brand .login ul{
+    display: flex;
+    list-style: none;
+    align-items: center;
+    justify-content: center; 
+    height: 30px; 
+    color: aliceblue;
+    margin-left: 900px;
+}
+
+.Brand .login ul{
+
+list-style: none;
+}
+
+.Brand .login ul li{
+     
+    font-size: 20px; 
+    text-align: center;
+    height: 60px;  
+}
+
+.login li a{
+    text-decoration: none;
+    color: whitesmoke;
+    font-size: 20px;
+    display: flex;
+    margin-left: 30px;
+}
+
+.Brand .login .join li a{
+    width: 100px;
+    height: 40px;
+    padding: 10px;
+    border-radius: 12px;
+    background-color: #01A2EF;
+}
+
+.Brand .login .log li a{
+    font-size: 17px;
+    margin-top: 15px;
+}
+.Brand .wel h3{
+    text-align: center;
+    margin-right: 20px;
+    margin-top: 200px;
+    color: #2396DA;
+}
+.Brand .write{
+    margin-top: 30px;
+}
+
+.Brand .write span{
+
+    margin-left: 580px;
+    margin-top: 40px;
+    font-size: 40px;
+    color: aliceblue;
+    width: 100px; 
+    height: 35px;
+}
+
+.Brand .write .sell span{
+    margin-left: 610px;
+    height: 120px;
+}
+
+.Brand .write .int span{
+    text-align: center;
+    margin-left: 620px;
+    
+}
+.Brand .write .int{
+    margin-bottom: 20px;
+}
+
+.Brand .words{
+    width: 335px;
+    height: 5px;
+    color: aliceblue;
+    margin-top: 20px;
+    margin-left: 570px;
+    
+}
+
+.Brand .words p{
+    text-align: center;
+    font-size: 15px;
+    
+}
+
+.Brand .twobutton ul{
+    text-decoration: none;
+    display: flex;
+    list-style: none;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.Brand .twobutton ul li{
+    list-style: none;
+    display: flex;
+    margin-left: 35px;
+    margin-top: 40px;
+    width: 300px;
+    
+}
+
+.Brand .twobutton ul li a{
+    
+    padding: 20px;
+    color: aliceblue;
+    margin-top: 5px;
+    
+   
+}
+
+
+.Brand .twobutton .get a{
+    text-decoration: none;
+    background-color: #01A2EF;
+    border-radius: 20px;
+    font-size: 15px;
+    
+}
+
+.Brand .twobutton .get{
+    margin-top: 35px;
+    width: 180px;
+    
+}
+
+.Brand .twobutton .learn{
+    
+    margin-top: 35px;
+    width: 190px;
+    
+}
+
+.Brand .twobutton .learn a{
+    text-decoration: none;
+    color: #2397DB;
+    border-radius: 22px;
+    font-size: 15px;
+    margin-left: 20px;
+    border: 2px solid #2397DB;
+
+}
+
+.bar1 {
+    width: 195px;
+    height: 185px;
+    background-color: white;
+   margin-left: 30px;
+   margin-top: 120px;
+   border-radius: 10px;
+   
+   
+    
+}
+
+.bar2{
+    width: 190px;
+    height: 180px;
+    background-color: white;
+   margin-left: 70px;
+   margin-top: 120px;
+   
+
+}
+
+.bar3{
+    width: 190px;
+    height: 180px;
+    background-color: white;
+   margin-left: 70px;
+   margin-top: 120px;
+   
+   
+
+}
+
+
+
+.alldiv{
+    display: flex;
+    justify-content: space-between;
+    justify-content: center;
+}
+
+.alldiv .bar1 .icon1{
+    
+    font-size: 20px;
+    background-color: #FFDCD1;
+    width: 50px;
+    height: 50px;
+    justify-content: center;
+    margin-left: 40px;
+    margin-top: 30px;
+    border-radius: 12px;
+    
+
+}
+
+
+.alldiv .bar1 .icon1 i{
+    margin-bottom: 25px;
+    padding: 15px;
+}
+
+.alldiv .bar1 .write1{
+    margin-top: 20px;
+    margin-left: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.alldiv .bar1 .line {
+    width: 50px;
+    height: 2px;
+    background-color: red;
+    margin-top: 7px;
+    margin-left: 20px;
+
+}
+
+.alldiv .bar1 .words span{
+    width: 35px;
+    height: 3px;
+    font-size: 12px;
+    margin-top: 3px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    justify-content: center;
+}
+
+.alldiv .bar2 .icon2{
+    width: 48px;
+    height: 48px;
+    font-size: 30px;
+    background-color: #B9EAA8;
+    margin-top: 28px;
+    padding: 8px;
+    margin-left: 20px;
+    border-radius: 7px;
+}
+
+.alldiv .bar2 .write2 p{
+margin-top: 20px;
+margin-left: 20px;
+}
+
+.alldiv .bar2 .line2 {
+    width: 50px;
+    height: 2px;
+    background-color: red;
+    margin-top: 7px;
+    margin-left: 20px;
+
+}
+
+
+.alldiv .bar2 .words2 span{
+    width: 35px;
+    height: 3px;
+    font-size: 12px;
+    margin-top: 3px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    justify-content: center;
+}
+
+.alldiv .bar2 .write2 p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.alldiv .bar3{
+    background-color: #23A6F0;
+    
+}
+.alldiv .bar3 .icon3{
+    font-size: 25px;
+    background-color: #23A6F0;
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+    margin-right: 140px;
+    background-color: azure;
+    height: 50px;
+    width: 50px;
+    padding: 10px;
+    margin-left: 17px;
+    border-radius: 12px;
+}
+
+.write .sell {
+    height: 35px;
+    margin-left: 35px;
+}
+
+.alldiv .bar3 .write3 p{
+    margin-top: 20px;
+    margin-left: 20px;
+    color: aliceblue;
+    }
+
+    .alldiv .bar3 .line3 {
+        width: 50px;
+        height: 2px;
+        background-color: white;
+        margin-top: 7px;
+        margin-left: 20px;
+        color: aliceblue;
+    
+    }
+    .alldiv .bar3 .words3 span{
+        width: 35px;
+        height: 3px;
+        font-size: 12px;
+        margin-top: 3px;
+        font-family: 'Times New Roman', Times, serif;
+        text-align: center;
+        justify-content: center;
+        color: aliceblue;
+    }
+    
+    .alldiv .bar3 .write3 p{
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }

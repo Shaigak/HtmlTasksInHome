@@ -1,0 +1,73 @@
+.circle{
+    width: 400px;
+    height: 5px;
+    background-color: rgb(232, 251, 251);
+    
+}
+
+.circle .red{
+    width: 5px;
+    height: 5px;
+    background-color: rgb(231, 18, 18);
+    border-radius: 16px;
+    justify-content: center;
+    margin-left: 180px;
+}
+
+
+
+.icon{
+    margin-left: 37px;
+    width: 600px;
+    height: 600px;
+    background-color: rgb(255, 255, 255);
+}
+
+.icon i{
+    font-size: 25px;
+    width: 100px;
+    height: 100px;
+    background-color: rgb(173, 67, 28);
+    text-align: center;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+
+}
+
+.icon .icons{
+    margin-top: 40px;
+    margin-left: 150px;
+    
+    padding-top: 38px;
+    width: 100px;
+    height: 70px;
+    color: white;
+}
+
+
+.write h1{
+    margin-top: 166px;
+    margin-left: 152px;
+    width: 180px;
+    height: 10px;
+    font-family: 'Times New Roman', Times, serif
+}
+
+.write2 h1{
+    
+    margin-left: 180px;
+    margin-right: 30px;
+    margin-top: 10px;
+    
+}
+.write3 p{
+    width: 300px;
+    margin-left: 92px;
+    color:#6B6967;
+    text-align: center;
+}
+
+.all{
+    margin-left: 150px;
+    margin-top: 50px;
+}

@@ -1,0 +1,57 @@
+.pic{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+       
+}
+
+.write1 h3{
+    text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.write2 p{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 12px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.write3 p{
+    margin-top: 10px;
+    text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
+    height: 5px;
+    
+}
+
+.write4 p{
+    text-align: center;
+    margin-top: 5px;
+    font-family: 'Roboto Condensed', sans-serif;
+    height: 14px;
+}
+
+.write5 p{
+    text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 12px;
+    height: 20px;
+}
+
+.write6 p{
+    text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 10px;
+    margin-bottom: 5px;
+    font-size: 10px;
+}
+
+.all{
+    margin-left: 90px;
+    margin-top: 30px;
+    width: 500px;
+    height: 700px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+
+}
